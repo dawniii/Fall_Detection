@@ -1,0 +1,9 @@
+Unspecified activities :104
+Fall forward:3
+Lying:15
+Fall left:3
+Real fall forward:38
+Real fall backward:2
+将原始跌倒标签转换为非跌倒标签后预测为跌倒的样本个数：46
+未转换的原始跌倒标签预测为跌倒的样本个数:365
+将原始跌倒标签转换为非跌倒标签后预测为非跌倒的样本个数：3365

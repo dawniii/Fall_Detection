@@ -1,0 +1,8 @@
+Unspecified activities :88
+Fall forward:34
+Lying:19
+Sitting on a bed:2
+Crouching:3
+将原始跌倒标签转换为非跌倒标签后预测为跌倒的样本个数：34
+未转换的原始跌倒标签预测为跌倒的样本个数:212
+将原始跌倒标签转换为非跌倒标签后预测为非跌倒的样本个数：2112
